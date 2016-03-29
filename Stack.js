@@ -1,9 +1,3 @@
-// var stacked = [];
-// stacked.push(3);
-// stacked.push(5);
-// var i = stacked.pop();
-// console.log (i);
-
 function Stack () {
   this.data = [];
 }
